@@ -1,0 +1,50 @@
+{
+  "name": "dark-space",
+  "displayName": "Dark Space",
+  "description": "A dark and modern theme for Visual Studio Code.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "homepage": "https://github.com/deadrevolver/dark-space",
+  "galleryBanner": {
+    "color": "#1a1b26",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deadrevolver/dark-space"
+  },
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "scripts": {
+    "build": "vsce package"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Space",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-space.json"
+      },
+      {
+        "label": "Dark Space Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-space-black.json"
+      }
+    ]
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "black",
+    "modern",
+    "clean",
+    "cyberpunk",
+    "neon"
+  ]
+}
