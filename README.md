@@ -7,7 +7,7 @@
 A dark, modern and clean theme for Visual Studio Code.
 
 <a href="https://raw.githubusercontent.com/deadrevolver/dark-space/main/previews.png" target="_BLANK">
-    <img alt="Theme sample previews" src="https://raw.githubusercontent.com/deadrevolver/dark-space/main/previews.png?token=GHSAT0AAAAAABZW6ZRKGIYCEJSHE6IIQOKEY2HH56A">
+    <img alt="Theme sample previews" src="https://raw.githubusercontent.com/deadrevolver/dark-space/main/previews.png">
 </a>
 (Click for larger view)
 
