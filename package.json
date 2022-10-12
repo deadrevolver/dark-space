@@ -3,7 +3,7 @@
   "displayName": "Dark Space",
   "description": "A dark and modern theme for Visual Studio Code.",
   "version": "1.0.0",
-  "icon": "icon.png",
+  "icon": "./assets/icon.png",
   "homepage": "https://github.com/deadrevolver/dark-space",
   "galleryBanner": {
     "color": "#1a1b26",

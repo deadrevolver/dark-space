@@ -6,8 +6,8 @@
 
 A dark, modern and clean theme for Visual Studio Code.
 
-<a href="https://raw.githubusercontent.com/deadrevolver/dark-space/main/previews.png" target="_BLANK">
-    <img alt="Theme sample previews" src="https://raw.githubusercontent.com/deadrevolver/dark-space/main/previews.png">
+<a href="https://raw.githubusercontent.com/deadrevolver/dark-space/main/assets/hero.png" target="_BLANK">
+    <img alt="Dark Space Header Image" src="https://raw.githubusercontent.com/deadrevolver/dark-space/main/assets/hero.png">
 </a>
 (Click for larger view)
 
@@ -17,6 +17,10 @@ A dark, modern and clean theme for Visual Studio Code.
 1. Click `Install`.
 1. Open the Command Palette with Ctrl+Shift+P or ⇧⌘P.
 1. Select Preferences: Color Theme and choose `Dark Space` or `Dark Space Black`.
+
+<a href="https://raw.githubusercontent.com/deadrevolver/dark-space/main/assets/previews.png" target="_BLANK">
+    <img alt="Theme Language Previews" src="https://raw.githubusercontent.com/deadrevolver/dark-space/main/assets/previews.png">
+</a>
 
 ## ⚙️ Recommended Settings & Font
 The font used in the screenshots above is [Cascadia Code](https://github.com/microsoft/cascadia-code), with a size of 14px and tab size of 4 and font ligatures enabled.
