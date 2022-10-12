@@ -1,10 +1,10 @@
 {
-  "name": "dark-space",
+  "name": "dark-space-theme",
   "displayName": "Dark Space",
   "description": "A dark and modern theme for Visual Studio Code.",
   "version": "1.0.0",
   "publisher": "deadrevolver",
-  "icon": "./assets/icon.png",
+  "icon": "icon.png",
   "homepage": "https://darkspace.thousand-pixel.com",
   "galleryBanner": {
     "color": "#1a1b26",

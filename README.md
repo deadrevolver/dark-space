@@ -1,8 +1,8 @@
 # Dark Space
 
-<!-- ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/dark-space?label=Rating&style=for-the-badge&labelColor=1E202E&color=58C8F1)
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/dark-space?label=Installs&style=for-the-badge&labelColor=1E202E&color=6A85E4)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/dark-space?label=Version&style=for-the-badge&labelColor=1E202E&color=A779F3) -->
+![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/deadrevolver.dark-space-theme?label=Rating&style=for-the-badge&labelColor=1E202E&color=58C8F1)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/deadrevolver.dark-space-theme?label=Installs&style=for-the-badge&labelColor=1E202E&color=6A85E4)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/deadrevolver.dark-space-theme?label=Version&style=for-the-badge&labelColor=1E202E&color=A779F3)
 
 A dark, modern and clean theme for Visual Studio Code.
 
