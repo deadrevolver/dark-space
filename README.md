@@ -9,7 +9,6 @@ A dark, modern and clean theme for Visual Studio Code.
 <a href="https://raw.githubusercontent.com/deadrevolver/dark-space/main/assets/hero.png" target="_BLANK">
     <img alt="Dark Space Header Image" src="https://raw.githubusercontent.com/deadrevolver/dark-space/main/assets/hero.png">
 </a>
-(Click for larger view)
 
 ## 🚀 Installation
 1. Open the `Extensions` sidebar in VS Code.
