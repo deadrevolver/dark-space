@@ -43,13 +43,13 @@ The font used in the screenshots above is [Cascadia Code](https://github.com/mic
 | ![#f7768e](https://place-hold.it/15/9357E0/9357E0?text=+) `#9357E0` | Accent Shade
 | ![#f7768e](https://place-hold.it/15/A779F3/A779F3?text=+) `#A779F3` | Accent
 | ![#f7768e](https://place-hold.it/15/B79DFF/B79DFF?text=+) `#B79DFF` | Accent Tint
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | Highlight
+| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#F7768E` | Highlight
 | ![#f7768e](https://place-hold.it/15/DE4BA3/DE4BA3?text=+) `#DE4BA3` | Highlight Shade
 | ![#f7768e](https://place-hold.it/15/29355A/29355A?text=+) `#29355A` | Tertiary Shade Darker
 | ![#f7768e](https://place-hold.it/15/425882/425882?text=+) `#425882` | Tertiary Shade
-| ![#f7768e](https://place-hold.it/15/6183bb/6183bb?text=+) `#6183bb` | Tertiary
-| ![#f7768e](https://place-hold.it/15/9abdf5/9abdf5?text=+) `#9abdf5` | Tertiary Tint
-| ![#f7768e](https://place-hold.it/15/1a1b26/1a1b26?text=+) `#1a1b26` | Editor Background (Dark Space)
+| ![#f7768e](https://place-hold.it/15/6183bb/6183bb?text=+) `#6183BB` | Tertiary
+| ![#f7768e](https://place-hold.it/15/9abdf5/9abdf5?text=+) `#9ABDF5` | Tertiary Tint
+| ![#f7768e](https://place-hold.it/15/1a1b26/1a1b26?text=+) `#1A1B26` | Editor Background (Dark Space)
 | ![#f7768e](https://place-hold.it/15/141414/141414?text=+) `#141414` | Editor Background (Dark Space Black)
 
 ## 📄 License
