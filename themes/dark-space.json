@@ -43,7 +43,8 @@
 		"badge.background": "#7E83B230",
 		"badge.foreground": "#A9B1D6",
 		"icon.foreground": "#7E83B2",
-		"settings.headerForeground": "#6183BB",
+		"settings.headerForeground": "#BDC8F5",
+		"settings.modifiedItemIndicator": "#A779F3",
 		"window.activeBorder": "#0D0F17",
 		"window.inactiveBorder": "#0D0F17",
 		"sash.hoverBorder": "#29355A",
@@ -204,7 +205,8 @@
 		"peekViewResult.lineForeground": "#A9B1D6",
 		"peekViewResult.fileForeground": "#7E83B2",
 		"peekViewResult.matchHighlightBackground": "#A779F366",
-		"diffEditor.insertedTextBackground": "#41A6B515",
+		"disabledForeground": "#3b3f6d",
+		"diffEditor.insertedTextBackground": "#7BCCFC15",
 		"diffEditor.removedTextBackground": "#FF537022",
 		"breadcrumb.background": "#16161E",
 		"breadcrumbPicker.background": "#16161E",
@@ -285,7 +287,7 @@
 		"terminal.ansiWhite": "#7E83B2",
 		"terminal.ansiBrightBlack": "#363B54",
 		"terminal.ansiBrightRed": "#F7768E",
-		"terminal.ansiBrightGreen": "#41A6B5",
+		"terminal.ansiBrightGreen": "#7BCCFC",
 		"terminal.ansiBrightYellow": "#A779F3",
 		"terminal.ansiBrightBlue": "#87A1FF",
 		"terminal.ansiBrightMagenta": "#B79DFF",
@@ -304,7 +306,7 @@
 		"charts.blue": "#87A1FF",
 		"charts.yellow": "#A779F3",
 		"charts.orange": "#A779F3",
-		"charts.green": "#41A6B5",
+		"charts.green": "#7BCCFC",
 		"charts.purple": "#A779F3",
 		"charts.foreground": "#9AA5CE",
 		"charts.lines": "#16161E",
@@ -690,7 +692,7 @@
 			"name": "Object Literal Member lvl 3 (Vue Prop Validation)",
 			"scope": "meta.objectliteral meta.object.member meta.objectliteral meta.object.member meta.objectliteral meta.object.member meta.object-literal.key",
 			"settings": {
-				"foreground": "#41A6B5"
+				"foreground": "#7BCCFC"
 			}
 		},
 		{
@@ -1488,6 +1490,7 @@
 				"punctuation.definition.italic.markdown",
 				"punctuation.definition.markdown",
 				"markdown punctuation.definition.markdown",
+				"punctuation.definition.strikethrough.markdown"
 			],
 			"settings": {
 				"foreground": "#2B2E50"

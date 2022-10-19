@@ -43,7 +43,8 @@
 		"badge.background": "#7E83B230",
 		"badge.foreground": "#A9B1D6",
 		"icon.foreground": "#7E83B2",
-		"settings.headerForeground": "#6183BB",
+		"settings.headerForeground": "#BDC8F5",
+		"settings.modifiedItemIndicator": "#A779F3",
 		"window.activeBorder": "#0D0F17",
 		"window.inactiveBorder": "#0D0F17",
 		"sash.hoverBorder": "#29355A",
@@ -192,6 +193,7 @@
 		"editorCodeLens.foreground": "#484F70",
 		"editorLightBulb.foreground": "#A779F3",
 		"editorLightBulbAutoFix.foreground": "#A779F3",
+		"disabledForeground": "#474e72",
 		"peekView.border": "#101014",
 		"peekViewEditor.background": "#0D0D0D",
 		"peekViewEditor.matchHighlightBackground": "#4A55B966",
@@ -340,7 +342,7 @@
 				"meta.directive.vue entity.other.attribute-name.html",
 				"tag.decorator.js entity.name.tag.js",
 				"tag.decorator.js punctuation.definition.tag.js",
-				"storage.modifier"
+				"storage.modifier",
 			],
 			"settings": {
 				"fontStyle": "italic"
@@ -1505,6 +1507,7 @@
 				"punctuation.definition.italic.markdown",
 				"punctuation.definition.markdown",
 				"markdown punctuation.definition.markdown",
+				"punctuation.definition.strikethrough.markdown"
 			],
 			"settings": {
 				"foreground": "#2F344D"

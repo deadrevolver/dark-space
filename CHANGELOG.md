@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.1.5 - 10/18/2022
+
+- Changed Readme strikethrough definition color to match bold, italics and other definitions
+- Fixed disabled menu item foreground colors
+- Changed color of nested JS objects
+- Changed settings heading text colors
+- Changed settings modified color indicator
+
 ## 1.1.4 - 10/18/2022
 
 - Updated keyword key operator colors
