@@ -1,51 +1,57 @@
 {
-  "name": "dark-space-theme",
-  "displayName": "Dark Space",
-  "description": "A dark and modern theme for Visual Studio Code.",
-  "version": "1.1.3",
-  "publisher": "deadrevolver",
-  "icon": "icon.png",
-  "homepage": "https://darkspace.thousand-pixel.com",
-  "galleryBanner": {
-    "color": "#1a1b26",
-    "theme": "dark"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/deadrevolver/dark-space"
-  },
-  "license": "MIT",
-  "categories": [
-    "Themes"
-  ],
-  "engines": {
-    "vscode": "^1.70.0"
-  },
-  "scripts": {
-    "build": "vsce package"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Dark Space",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-space.json"
-      },
-      {
-        "label": "Dark Space Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-space-black.json"
-      }
-    ]
-  },
-  "keywords": [
-    "vscode",
-    "theme",
-    "dark",
-    "black",
-    "modern",
-    "clean",
-    "cyberpunk",
-    "neon"
-  ]
+	"name": "dark-space-theme",
+	"displayName": "Dark Space",
+	"description": "A dark and modern theme for Visual Studio Code.",
+	"version": "1.1.3",
+	"publisher": "deadrevolver",
+	"icon": "icon.png",
+	"homepage": "https://darkspace.thousand-pixel.com",
+	"galleryBanner": {
+		"color": "#1a1b26",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/deadrevolver/dark-space"
+	},
+	"license": "MIT",
+	"categories": [
+		"Themes"
+	],
+	"engines": {
+		"vscode": "^1.70.0"
+	},
+	"scripts": {
+		"build": "vsce package"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark Space",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-space.json"
+			},
+			{
+				"label": "Dark Space Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-space-black.json"
+			}
+		]
+	},
+	"keywords": [
+		"Dark Theme",
+		"Dark",
+		"Space",
+		"Modern",
+		"Clean",
+		"Cyberpunk",
+		"Neon",
+		"Color Theme"
+	],
+	"__metadata": {
+		"id": "58747154-c256-4962-90a0-dc1cfea00a48",
+		"publisherDisplayName": "Dead Revolver",
+		"publisherId": "cd4e3930-addf-492f-be0f-2b0742782507",
+		"isPreReleaseVersion": false
+	}
 }

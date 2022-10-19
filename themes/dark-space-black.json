@@ -75,7 +75,7 @@
 		"dropdown.background": "#14141B",
 		"dropdown.listBackground": "#14141B",
 		"activityBar.background": "#0D0D0D",
-		"activityBar.foreground": "#7E83B2",
+		"activityBar.foreground": "#A779F3",
 		"activityBar.inactiveForeground": "#3B3E52",
 		"activityBar.border": "#0D0D0D",
 		"activityBarBadge.background": "#A779F3",
@@ -125,7 +125,7 @@
 		"editorBracketPairGuide.activeBackground5": "#1ABC9C",
 		"editorBracketPairGuide.activeBackground6": "#B79DFF",
 		"selection.background": "#515C7E40",
-		"editor.background": "#141414",
+		"editor.background": "#141418",
 		"editor.foreground": "#A9B1D6",
 		"editor.foldBackground": "#1111174A",
 		"editorLink.activeForeground": "#A9B1D6",
@@ -221,7 +221,7 @@
 		"tab.unfocusedActiveForeground": "#A9B1D6",
 		"tab.unfocusedInactiveForeground": "#7E83B2",
 		"tab.unfocusedHoverForeground": "#A9B1D6",
-		"tab.activeModifiedBorder": "#141414",
+		"tab.activeModifiedBorder": "#141418",
 		"tab.inactiveModifiedBorder": "#1F202E",
 		"tab.unfocusedActiveBorder": "#1F202E",
 		"tab.lastPinnedBorder": "#222333",
@@ -505,6 +505,15 @@
 			}
 		},
 		{
+			"name": "Keyword Key Operator",
+			"scope": [
+				"keyword.operator.key"
+			],
+			"settings": {
+				"foreground": "#B79DFF"
+			}
+		},
+		{
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.operator",
@@ -531,6 +540,24 @@
 			],
 			"settings": {
 				"foreground": "#7BCCFC"
+			}
+		},
+		{
+			"name": "Punctuation Variable & Template Variables",
+			"scope": [
+				"punctuation.definition.variable"
+			],
+			"settings": {
+				"foreground": "#BDC8F5"
+			}
+		},
+		{
+			"name": "Punctuation Variable & Template Variables",
+			"scope": [
+				"punctuation.definition.variable"
+			],
+			"settings": {
+				"foreground": "#BDC8F5"
 			}
 		},
 		{
@@ -1087,7 +1114,7 @@
 			"name": "Regular Expressions",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#B4F9F8"
+				"foreground": "#B79DFF"
 			}
 		},
 		{

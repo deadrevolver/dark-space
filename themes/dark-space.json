@@ -75,7 +75,7 @@
 		"dropdown.background": "#14141B",
 		"dropdown.listBackground": "#14141B",
 		"activityBar.background": "#16161E",
-		"activityBar.foreground": "#7E83B2",
+		"activityBar.foreground": "#A779F3",
 		"activityBar.inactiveForeground": "#3B3E52",
 		"activityBar.border": "#16161E",
 		"activityBarBadge.background": "#A779F3",
@@ -502,6 +502,15 @@
 			],
 			"settings": {
 				"foreground": "#F7768E"
+			}
+		},
+		{
+			"name": "Keyword Key Operator",
+			"scope": [
+				"keyword.operator.key"
+			],
+			"settings": {
+				"foreground": "#B79DFF"
 			}
 		},
 		{
@@ -1088,7 +1097,7 @@
 			"name": "Regular Expressions",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#B4F9F8"
+				"foreground": "#B79DFF"
 			}
 		},
 		{
