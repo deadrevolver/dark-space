@@ -11,6 +11,7 @@ A dark, modern and clean theme for Visual Studio Code.
 </a>
 
 ## 🚀 Installation
+
 1. Open the `Extensions` sidebar in VS Code.
 1. Search for `Dark Space`.
 1. Click `Install`.
@@ -22,7 +23,9 @@ A dark, modern and clean theme for Visual Studio Code.
 </a>
 
 ## ⚙️ Recommended Settings & Font
+
 The font used in the screenshots above is [Cascadia Code](https://github.com/microsoft/cascadia-code), with a size of 14px and tab size of 4 and font ligatures enabled.
+
 ```json
 "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
 "editor.fontLigatures": true,
@@ -31,6 +34,7 @@ The font used in the screenshots above is [Cascadia Code](https://github.com/mic
 ```
 
 ## 🎨 Color Palette
+
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Overview |
 | ---------- | ------------------------------------------------------------ |
 | ![#f7768e](https://place-hold.it/15/4A55B9/4A55B9?text=+) `#4A55B9` | Primary Shade
@@ -49,9 +53,10 @@ The font used in the screenshots above is [Cascadia Code](https://github.com/mic
 | ![#f7768e](https://place-hold.it/15/6183bb/6183bb?text=+) `#6183BB` | Tertiary
 | ![#f7768e](https://place-hold.it/15/9abdf5/9abdf5?text=+) `#9ABDF5` | Tertiary Tint
 | ![#f7768e](https://place-hold.it/15/1a1b26/1a1b26?text=+) `#1A1B26` | Editor Background (Dark Space)
-| ![#f7768e](https://place-hold.it/15/141414/141414?text=+) `#141414` | Editor Background (Dark Space Black)
+| ![#f7768e](https://place-hold.it/15/141414/141414?text=+) `#141418` | Editor Background (Dark Space Black)
 
 ## 📄 License
+
 This theme is released under the MIT License.
 
 Designed and created by [Dead Revolver](https://github.com/deadrevolver).
