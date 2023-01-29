@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.6 - 10/18/2022
+
+- Improved JSON key level colors
+
 ## 1.1.5 - 10/18/2022
 
 - Changed Readme strikethrough definition color to match bold, italics and other definitions
