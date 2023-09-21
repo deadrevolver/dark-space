@@ -6,7 +6,7 @@
         <Description xml:space="preserve">Official Visual Studio 2022 port of the Dark Space theme for VS Code by Dead Revolver.</Description>
         <MoreInfo>https://github.com/deadrevolver/dark-space</MoreInfo>
         <License>LICENSE.txt</License>
-        <Icon>icon.png</Icon>
+        <Icon>../../icon.png</Icon>
         <PreviewImage>dark-space-vs2022-1.png</PreviewImage>
         <Tags>dark,modern,beautiful</Tags>
     </Metadata>
