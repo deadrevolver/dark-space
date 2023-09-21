@@ -82,6 +82,6 @@
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\VSSDK\Microsoft.VsSDK.targets" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup>
-    <PostBuildEvent>PowerShell mkdir -Force $(SolutionDir)\release\ ; mv -Force $(TargetDir)\$(TargetName).vsix $(SolutionDir)\release\</PostBuildEvent>
+    <PostBuildEvent>PowerShell mv -Force $(TargetDir)\$(TargetName).vsix $(SolutionDir)\release\</PostBuildEvent>
   </PropertyGroup>
 </Project>
