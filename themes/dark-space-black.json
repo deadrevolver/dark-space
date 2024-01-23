@@ -144,7 +144,7 @@
 		"terminalCursor.foreground": "#A779F3",
 		"editorIndentGuide.background": "#1E202E",
 		"editorIndentGuide.activeBackground": "#363B54",
-		"editorLineNumber.foreground": "#3C415E",
+		"editorLineNumber.foreground": "#4D5375",
 		"editorLineNumber.activeForeground": "#7E83B2",
 		"editor.lineHighlightBackground": "#1E202E",
 		"editorWhitespace.foreground": "#363B54",
@@ -364,7 +364,7 @@
 				"comment.block.documentation punctuation"
 			],
 			"settings": {
-				"foreground": "#3C415E"
+				"foreground": "#4D5375"
 			}
 		},
 		{
@@ -1491,7 +1491,7 @@
 			"scope": "meta.separator",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#3C415E"
+				"foreground": "#4D5375"
 			}
 		},
 		{
@@ -1510,7 +1510,7 @@
 				"punctuation.definition.strikethrough.markdown"
 			],
 			"settings": {
-				"foreground": "#3C415E"
+				"foreground": "#4D5375"
 			}
 		},
 		{
