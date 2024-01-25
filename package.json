@@ -2,7 +2,7 @@
 	"name": "dark-space-theme",
 	"displayName": "Dark Space",
 	"description": "A dark and modern theme for Visual Studio Code.",
-	"version": "1.3.0",
+	"version": "1.1.7",
 	"publisher": "deadrevolver",
 	"icon": "icon.png",
 	"homepage": "https://darkspace.thousand-pixel.com",
@@ -23,6 +23,7 @@
 	},
 	"scripts": {
 		"build": "vsce package",
+		"publish": "vsce publish",
 		"update": "vsce publish minor"
 	},
 	"contributes": {
